@@ -1,0 +1,15 @@
+name: Nitime
+main: com.playernguyen.Nitime
+version: 1.1
+author: Player_Nguyen
+commands:
+  nitime:
+    usage: /nitime <args>
+    description: Nitime's plugin command
+permissions:
+  nitime.command:
+    description: Grant permission to use all commands
+    default: op
+  nitime.test:
+    description: Grant permission to use /nitime test command
+    default: op
