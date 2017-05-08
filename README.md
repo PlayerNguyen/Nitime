@@ -6,4 +6,5 @@ Featured
 * Depend with Vault, Factions and more popular plugins
 * Add more notifications default
 * Connect to another PC or STPC (Server to PC) for easily manager your server
+<br>
 Download now at: 
